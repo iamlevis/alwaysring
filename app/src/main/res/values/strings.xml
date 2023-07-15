@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Always Ring</string>
+    <string name="enable_cblabel">Always ring for the phone numbers listed here.</string>
+    <string name="picker_label">Add from contacts.</string>
+    <string name="add_contact_button_desc">Press this button to add a phone number to the list.</string>
+    <string name="notifier_line1">Always Ring is running.</string>
+    <string name="notifier_line2">Select to make changes.</string>
+</resources>
